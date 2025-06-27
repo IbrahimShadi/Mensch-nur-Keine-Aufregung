@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.Projekt.springbootapplication.GameServiceTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-02-08T13:51:50" hostname="DELLO-2-IN-1" time="0.036">
+  <properties/>
+  <testcase name="testTurnChange()" classname="org.Projekt.springbootapplication.GameServiceTest" time="0.024"/>
+  <testcase name="testInitialGameState()" classname="org.Projekt.springbootapplication.GameServiceTest" time="0.002"/>
+  <testcase name="testRollDice()" classname="org.Projekt.springbootapplication.GameServiceTest" time="0.002"/>
+  <testcase name="testMovePiece()" classname="org.Projekt.springbootapplication.GameServiceTest" time="0.003"/>
+  <system-out><![CDATA[Testing turn change...
+Turn change test passed. Current player is now: 2
+Testing initial game state...
+Current Player: 1
+Initial Dice Value: 0
+All pieces start at position 0: true
+Initial game state tested successfully.
+Rolled dice value: 3
+Testing move piece...
+Piece moved to target position: 5
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

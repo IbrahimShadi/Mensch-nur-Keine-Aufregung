@@ -1,0 +1,10 @@
+Testing turn change...
+3Turn change test passed. Current player is now: 2
+Testing initial game state...
+Current Player: 1
+Initial Dice Value: 0
+&All pieces start at position 0: true
+)Initial game state tested successfully.
+Rolled dice value: 3
+Testing move piece...
+#Piece moved to target position: 5
