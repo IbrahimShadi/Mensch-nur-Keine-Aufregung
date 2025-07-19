@@ -4,8 +4,21 @@ Ein digitales Mehrspieler-Spiel auf Basis von Java und Spring Boot, umgesetzt mi
 Ziel war es, ein funktionierendes Frontend- und Backend-System zu realisieren – inspiriert vom klassischen Brettspiel **"Mensch ärgere dich nicht"**.
 
 
-<pre> ## 📦 Projektstruktur ``` prototyp/ │ ├── Frontend/ # Java-Frontend (Client-Logik in MVC) │ └── src/main/java/org/Projekt/frontend/ │ ├── ClientController/ │ ├── ClientModel/ │ └── ClientView/ │ ├── springbootapplication/ # Spring Boot Backend (Server) │ └── src/main/java/org/Projekt/springbootapplication/ │ ├── ServerController/ │ ├── ServerModel/ │ └── Service/ ``` </pre>
+## 📦 Projektstruktur
 
+prototyp/
+│
+├── Frontend/ # Java-Frontend (Client-Logik in MVC)
+│ └── src/main/java/org/Projekt/frontend/
+│ ├── ClientController/
+│ ├── ClientModel/
+│ └── ClientView/
+│
+├── springbootapplication/ # Spring Boot Backend (Server)
+│ └── src/main/java/org/Projekt/springbootapplication/
+│ ├── ServerController/
+│ ├── ServerModel/
+│ └── Service/
 
 ---
 
