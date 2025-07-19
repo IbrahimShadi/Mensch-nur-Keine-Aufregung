@@ -20,7 +20,7 @@ prototyp/
 │ ├── ServerController/
 │ ├── ServerModel/
 │ └── Service/
-´´´
+```
 ---
 
 ## 🚀 Features
