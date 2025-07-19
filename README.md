@@ -4,7 +4,7 @@ Ein digitales Mehrspieler-Spiel auf Basis von Java und Spring Boot, umgesetzt mi
 Ziel war es, ein funktionierendes Frontend- und Backend-System zu realisieren – inspiriert vom klassischen Brettspiel **"Mensch ärgere dich nicht"**.
 
 
-## 📦 Projektstruktur
+## 📦 Projektstruktur ```
 
 prototyp/
 │
@@ -19,7 +19,7 @@ prototyp/
 │ ├── ServerController/
 │ ├── ServerModel/
 │ └── Service/
-
+´´´
 ---
 
 ## 🚀 Features
